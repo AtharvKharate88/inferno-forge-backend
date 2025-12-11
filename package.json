@@ -18,10 +18,10 @@
     "express": "^5.1.0",
     "http": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
-    "mongodb": "^7.0.0",
-    "mongoose": "^8.19.3",
     "socket.io": "^4.8.1",
     "uuid": "^13.0.0",
-    "yargs": "^18.0.0"
+    "yargs": "^16.2.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^7.9.3",
   }
 }
